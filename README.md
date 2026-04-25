@@ -39,3 +39,15 @@ LeetCode/
 - Tree / Graph
 - Dynamic Programming
 - Greedy
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/alison0525/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/alison0525/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+<!---LeetCode Topics End-->
