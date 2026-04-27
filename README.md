@@ -49,6 +49,7 @@ LeetCode/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/alison0525/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/alison0525/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -64,4 +65,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/alison0525/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/alison0525/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
